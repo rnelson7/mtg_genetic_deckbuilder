@@ -1,6 +1,6 @@
 🃏 MTG Arena Genetic Deckbuilder with LDA
 An automated Magic: The Gathering deck-building pipeline that combines machine learning (Latent Dirichlet Allocation) with a genetic algorithm to evolve optimized decks from your personal MTGA card collection.
-The system scrapes current metagame data, learns archetype patterns from real meta decks, and then evolves a competitive 60-card deck using only cards you actually own.
+The system scrapes current metagame data, learns archetype patterns from real meta decks, and then evolves a competitive 60-card deck using only cards you actually own. Coded with Kimi K2.5 & Claude Sonnet 4.6
 ---
 🧠 How It Works
 ```
